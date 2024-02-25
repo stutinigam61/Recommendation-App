@@ -1,1 +1,1 @@
-# Spotify-recommendation-app
+# Recommendation-App
